@@ -49,3 +49,12 @@ This project applies machine learning techniques to predict housing prices. It i
 ```bash
 git clone https://github.com/yourusername/house-price-prediction.git
 cd house-price-prediction
+house-price-prediction/
+│
+├── data/                   # Dataset files
+├── notebooks/              # Jupyter notebooks
+├── models/                 # Saved ML models
+├── app.py                  # Web app (Streamlit/Flask)
+├── House_Price_Prediction.ipynb
+├── requirements.txt
+└── README.md
